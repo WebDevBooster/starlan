@@ -20,7 +20,7 @@ Starlan is a new human language based on and mutually intelligible with American
  * learn flawless American English pronunciation up to 10 times faster
  * benefit from reduced miscommunication in personal interactions
  * have more time available to spend on more productive tasks
- * free up more mental capacity for developing new ideas
+ * free up more mental capacity for developing new skills and ideas
  
  
 ## Core premise and ideas
