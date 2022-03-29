@@ -47,9 +47,9 @@ That's the basic premise and the reason for building Star City. Instead of compl
 So:  
 Communication is super-important when building a mega-city designed to make the world a better place. If it wasn't for the horrendous spelling nightmare, English would be one of the easiest languages to learn. So, we'll be fixing this problem and we'll call this fix Starlan AKA Star Language. 
 
-Relying on someone else to fix the spelling problem in English is a pipe dream. That's never gonna happen. No matter what arguments you bring to incompetent idiots, those idiots will always prevail. So, we won't even discuss anything with those retards. They can keep their English the way it is and we'll be using Starlan. End of story! Easy peasy. 
+Relying on someone else to fix the spelling problem in English is a pipe dream. That's never gonna happen. No matter what arguments you bring to incompetent idiots, those idiots will always prevail. So, we won't even discuss anything with those idiots. They can keep their English the way it is and we'll be using Starlan. End of story! Easy peasy. 
 
-#### Don't waste any time battling retards
+#### Don't waste any time battling idiots
 
 Because the name Starlan doesn't mention the word "English" anywhere in its name, incompetent idiots don't have any business telling us what we can and can't do with Starlan. For all they know, it's a **NEW LANGUAGE**. So, we can do anything we want. 
 
