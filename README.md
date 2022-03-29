@@ -9,9 +9,10 @@ Starlan is a new human language based on and mutually intelligible with American
  Phonetic spelling means: words are spelled the same way they are pronounced. 
  
  On the flip side it means:  
- A new learner of Starlan can learn the basic pronunciation rules in about 30 minutes and **IMMEDIATELY be able to read any text with correct pronunciation!** 
+ A new learner of Starlan can learn the basic pronunciation rules in about 30 minutes and **IMMEDIATELY know the correct pronunciation of any word in any text!** 
  
- Even without knowing a word's meaning, a new learner will immediately know the correct pronunciation without ever having to look it up. 
+ Even without knowing that word's meaning.  
+ And without ever having to look it up pronunciation. 
  
  
  This means, people speaking Starlan will: 
