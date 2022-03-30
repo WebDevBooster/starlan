@@ -145,7 +145,9 @@ But if you prefer an extra-long answer, here you go:
 
 Now, go ahead and add at least half a dozen more points to this list! 
 
-Points, explaining why the North-American English accent needs to be... **has to be** the basis for phonetic spelling in Starlan. Go on! Don't be lazy! Do it! Add to the list! I will amend the list with your input and credit to you. 
+Points, explaining why the North-American English accent needs to be... **has to be** the basis for phonetic spelling in Starlan. 
+
+Go on! Don't be lazy! Do it! Add to the list! I will amend the list with your input and credit to you. Click the *issues* tab at the top of this page and post your suggestions as a "new issue".
 
 
 
