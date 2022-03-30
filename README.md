@@ -141,14 +141,26 @@ But if you prefer an extra-long answer, here you go:
 
 1. North-American English accent (spoken in Canada and the US) has by far the largest number of native English speakers worldwide. That's it. End of story. You want more reasons? Alright. 
 
-2. North-American English (NAE) accent is the easiest for non-native speakers to understand. Just the fact that in words ending in "r" (like car, air etc.) the "r" sound is always clearly audible in NAE but gets "swallowed" in British English... just that fact alone makes the British English accent a non-starter. Remember, CLARITY and EASE OF LEARNING is our goal here. Your preference for a particular TV presenter is irrelevant. Your cultural or national background is irrelevant. Any of your or my personal preferences are irrelevant. 
+2. North-American English (NAE) accent is the easiest for non-native speakers to understand. Plus, every native English speaker around the world can easily understand American English whereas Americans sometimes struggle to understand British English speakers. I've been living in London for years and to this day I sometimes have to ask a British English speaker to repeat the same word 2, 3 and sometimes 4 times because I just don't understand what the person is saying. That NEVER happens with American English. American English is always crystal clear to me as a non-native English speaker. Just the fact that in words ending in "r" (like car, air etc.) the "r" sound is always clearly audible in NAE but gets "swallowed" in British English... just that fact alone makes the British English accent a non-starter. Remember, CLARITY and EASE OF LEARNING is our goal here. 
 
-Now, go ahead and add at least half a dozen more points to this list! 
+Your preference for a particular TV presenter is irrelevant. Your cultural or national background is irrelevant. Any of your or my personal preferences are irrelevant.
 
-Points, explaining why the North-American English accent needs to be... **has to be** the basis for phonetic spelling in Starlan. 
+If I cared about my personal preferences, I wouldn't need any changes in English spelling. According to Grammarly (a little tool I use), in a week where Grammarly had checked 35,246 words I had written I was "more accurate than 79% of Grammarly users". That's despite the fact that Grammarly users tend to be people who are already good at spelling. And: I used "more unique words than 82% of Grammarly users" i.e. not just easy to spell words in that 35,246-word sample. 
 
-Go on! Don't be lazy! Do it! Add to the list! I will amend the list with your input and credit to you. Click the *issues* tab at the top of this page and post your suggestions as a "new issue".
+Oh, and whenever I do one of those spelling tests (riddled with supposedly hard-to-spell words), I typically end up in the top 2% of all test takers. So, if anything, the atrocious spelling in English is advantageous to me because it allows me to claim a bragging right.
 
+Starlan is not and cannot be about preferences of some individuals (or groups) with a particular skill set or background. 
 
+### Starlan is about 2 things: 
+
+* Freeing up MASSIVE amounts of wasted **time** by eliminating the atrocities of English spelling (precious time that both, kids and adults are forced to waste) 
+
+* Freeing up people's **brain power** to do and develop things that are productive and help make the world a better place
+
+This is why Starlan will be the main language in Star City. Starlan is gonna give us such an enormous advantage! 
+
+And if we succeed with Star City, everyone is probably gonna say in hindsight: *"Oh, yeah, of course it was easy for them to become the undisputed world leader in science and technology. Just look at the massive advantage they got from using Starlan."*
+
+Yeah. No shit, Sherlock!
 
 
