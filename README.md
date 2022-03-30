@@ -125,3 +125,28 @@ These children... the new generation will have much more of their mental power f
 And of course, learning science cannot be just another torture for children! Learning science for children must be made so fun and exciting that they'd rather do that than playing video games. But this is a completely separate topic. In Star City, world's best education for children (for every child) will be priority number one! It has to be if Star City is to become the undisputed world leader in science and technology.
 
 
+### Why American English pronunciation?
+
+It should be obvious that with phonetic spelling, you have to pick ONE accent, ONE version of pronunciation. But why should Starlan use Standard North-American English pronunciation for its phonetic spelling? Why not use British pronunciation instead? 
+
+Or how about Australian accent? South Africa? What??... You haven't even considered the accent of the people who live in Liverpool or... Manchester? How can you not like the accent of the great science presenter and physics professor Brian Cox? That's just "racist". And "anti-science". 
+
+If you aren't "racist" or "anti-science", we should all agree that Brian Cox's Mancunian accent should be the standard for the phonetic spelling in Starlan. I mean, we certainly can't use Dara Ó Briain's accent because that guy can't really speak English to begin with.
+
+Right?
+
+Well, if you have a brain, you should be able to answer the question from the subtitle faster than I do. 
+
+But if you prefer an extra-long answer, here you go: 
+
+1. North-American English accent (spoken in Canada and the US) has by far the largest number of native English speakers worldwide. That's it. End of story. You want more reasons? Alright. 
+
+2. North-American English (NAE) accent is the easiest for non-native speakers to understand. Just the fact that in words ending in "r" (like car, air etc.) the "r" sound is always clearly audible in NAE but gets "swallowed" in British English... just that fact alone makes the British English accent a non-starter. Remember, CLARITY and EASE OF LEARNING is our goal here. Your preference for a particular TV presenter is irrelevant. Your cultural or national background is irrelevant. Any of your or my personal preferences are irrelevant. 
+
+Now, go ahead and add at least half a dozen more points to this list! 
+
+Points, explaining why the North-American English accent needs to be... **has to be** the basis for phonetic spelling in Starlan. Go on! Don't be lazy! Do it! Add to the list! I will amend the list with your input and credit to you. 
+
+
+
+
