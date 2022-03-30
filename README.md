@@ -1,3 +1,7 @@
+[Milestones and current progress](./progress.md)
+
+--- 
+
 # Starlan: like English but 10 times faster to learn!
 
 Starlan is a new human language based on and mutually intelligible with American English. Starlan makes it possible for non-native speakers (and for children) to **learn English up to 10 times faster** and to minimize accent from the start.
