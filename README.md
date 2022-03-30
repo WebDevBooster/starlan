@@ -164,3 +164,8 @@ And if we succeed with Star City, everyone is probably gonna say in hindsight: *
 Yeah. No shit, Sherlock!
 
 
+### Resources page
+
+On [this resources page here](./resources.md) I'll be adding potentially useful resources and links to potential allies. 
+
+
