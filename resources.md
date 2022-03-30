@@ -93,8 +93,8 @@ by Anatoly Liberman.
 
 If my research is correct, this is his Wikipedia page:  
 https://en.wikipedia.org/wiki/Anatoly_Liberman  
-and his Linkedin profile:  
-https://www.linkedin.com/in/anatoly-liberman-6305a569/
+His contact details are listed on the university's faculty page here:  
+https://cla.umn.edu/gnsd/people/faculty?UID=aliber
 
 According to Wikipedia, he is a professor in the Department of German, Nordic, Slavic and Dutch at the University of Minnesota and an advocate of a spelling reform. 
 
