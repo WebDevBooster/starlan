@@ -25,7 +25,7 @@ Starlan is a new human language based on and mutually intelligible with American
  
 ## Core premise and ideas
 
-Originally, I conceived Starlan as the language for the citizens of Star City (see Star City Manifesto). And originally, I called it "Star English". But eventually, I realized that having the word "English" within the name would be counter-productive. 
+Originally, I conceived Starlan as the language for the citizens of Star City (see Star City Manifesto <sup>[[1]](#manifesto)</sup>). And originally, I called it "Star English". But eventually, I realized that having the word "English" within the name would be counter-productive. 
 
 Too many idiots would get triggered and try to waste our time if the name would indicate that it's "some new kind of English". So, I changed the name to Starlan, which is short for "star language". 
 
@@ -167,5 +167,14 @@ Yeah. No shit, Sherlock!
 ### Resources page
 
 On [this resources page here](./resources.md) I'll be adding potentially useful resources and links to potential allies. 
+
+
+### References 
+
+<a name="manifesto"></a>  
+1. A link to Star City Manifesto will be added here when it becomes available. 
+
+TODO:  
+Add Star City Manifesto link.
 
 
