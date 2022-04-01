@@ -208,7 +208,22 @@ Aside from that, the clarity of pronunciation in American English is so much gre
 
 British **news anchors** speak very clearly. But that's because they are **specifically trained** to do so. Try watching a "regular" British TV show where the speakers aren't news anchors and you'll quickly find that you need subtitles. This sort of thing is not there with American English. All Americans and Canadians can be easily understood without subtitles. 
 
-And as for that little problem with "can't" in American English, there is a simple fix for that:  
+I'm sharing this here because I can't be the only one who experiences things this way. There must be countless other people who feel the same. 
+
+And that means: 
+
+When deciding "which pronunciation or accent" to use for phonetic spelling, **there's NOTHING for consideration** that comes even close to North-American English! Not even close. 
+
+And if you try to come up with some BS like "oh, in America, the Texans speak differently than Pennsylvanians" etc., my reply to you is gonna be:  
+**STOP the bullshit!** 
+
+Regardless of what regional accent one might speak, there's a thing called "Standard American English". And EVERY English speaker in the WORLD understands that perfectly. So, we'll use that as a basis for phonetic spelling in Starlan. 
+
+Last time I checked no Hollywood movie has ever been re-dubbed into "Pennsylvanian English" or "Texan English" or British English etc. Standard American English seems to work for every Hollywood movie ever produced and all English speakers in the world understand it. It's a "miracle"!
+
+And if there are 2 different standard pronunciations for a word like in "either", we'll just pick one and that's it. Things are less complicated if you don't deliberately try to complicate things.
+
+As for that little problem with "can't" in American English, there is a simple fix for that:  
 In British English, there can never be a mix-up between "can" and "can't". So, we'll just borrow the British pronunciation of "can't" for our phonetic spelling in Starlan. Easy! In British "can't" the "a" is a long a sound like in "father". 
 
 
