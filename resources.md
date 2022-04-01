@@ -21,6 +21,8 @@ The incompetent idiots that are in charge everywhere have been preventing a spel
 
 But that Wikipedia page is potentially a good resource to consider. 
 
+---
+
 In this [June 2019 article titled "Simpler spelling may be more relevant than ever"](https://www.bbc.com/worklife/article/20190613-simpler-spelling-may-be-more-relevant-than-ever) the BBC says: 
 
 > The complexity of English spellings has been bothering people for nearly as long as English has been written down. They argue that inconsistent spellings make English unnecessarily hard to learn.
@@ -84,8 +86,12 @@ THAT is how we'll turn Star City into the world leader in science and technology
 
 We must relentlessly and ruthlessly question everything coming from incompetent idiots. Because incompetent idiots are in charge EVERYWHERE. (look up "the Peter Principle" if you don't believe me)
 
+---
+
 In [this article titled "The Case for Fonetik (Phonetic) Spelling"](https://www.linkedin.com/pulse/case-fonetik-phonetic-spelling-tom-pfeifer/) Tom Pfeifer identifies himself as a proponent of phonetic spelling. Here's his Linkedin profile:  
 https://www.linkedin.com/in/tjpfeifer/
+
+---
 
 Here's an insightful article titled *Spelling reform: not a “lafing” matter*:  
 https://blog.oup.com/2020/04/spelling-reform-not-a-lafing-matter/  
@@ -100,6 +106,8 @@ According to Wikipedia, he is a professor in the Department of German, Nordic, S
 
 So, professor Liberman might be a great ally. 
 
+---
+
 Interestingly, when you search for "phonetic spelling instructions", you'll find a bunch of universities publishing instructions to pronounce people's names like these two: 
 
 https://www.cmu.edu/hub/registrar/docs/phonetic-spelling-instructions.pdf  
@@ -109,5 +117,14 @@ https://www.ndnu.edu/documents/campus-life/NDNU-Name-Pronunciation-Guide.pdf
 Apparently people care about the correct pronunciation of their names at the graduation ceremony. 
 
 And apparently... phonetic spelling does a great job of making that happen. Hmmm... So, the correct pronunciation of people's names is important. But the correct pronunciation of regular words in everyday speech not so much?
+
+--- 
+
+Just watched this episode of the show "Otherwords" titled "The Screwed-Up History of English Spelling":  
+https://www.youtube.com/watch?v=zdRY0x2x6PQ
+
+That 8-minute episode is super-informative and Dr. Erica Brozovsky (host and writer of the show) might be a potential ally. Here's here Linkedin page:  
+https://www.linkedin.com/in/erica-brozovsky/
+
 
 
