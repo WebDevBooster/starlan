@@ -9,6 +9,7 @@ This page is for tracking milestones and current progress.
 #### ⏱ 1. Contact potential allies (see resources page)
 
 - [ ] Anatoly Liberman
+- [ ] Erica Brozovsky
 - [ ] Liory Fern-Pollak
 - [ ] Tom Pfeifer
 
