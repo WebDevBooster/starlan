@@ -168,6 +168,51 @@ And if we succeed with Star City, everyone is probably gonna say in hindsight: *
 Yeah. No shit, Sherlock!
 
 
+### Eliminate embarrassment! 
+
+I want to add a third point that list under the heading "Why American English pronunciation". I didn't want to write that down initially but the feelings associated with it keep coming up. So, I need to write it down in order to let it go. I need to "release" those haunting feelings into the wild. And I also think that sharing this might help others. 
+
+So, my third reason as to why North-American English (NAE) must be the basis for Starlan is because the clarity that's built-in into NAE pronunciation (see point 2) also **eliminates embarrassment** for people communicating in the language. In that point 2 I said: 
+
+> I've been living in London for years and to this day I sometimes have to ask a British English speaker to repeat the same word 2, 3 and sometimes 4 times because I just don't understand what the person is saying.
+
+And let me tell you a secret... 
+
+In all those cases where that happened, the typical situation was this: 
+
+The speakers in all those cases were people who must have grown up in England and they didn't appear to have any major accent. For all I could tell they were all speaking "standard" British English. 
+
+And every time I couldn't understand a word they were saying I felt like the dumbest MF in the world! 
+
+The level of embarrassment I experienced there is hard to put into words! 
+
+Imagine this: 
+
+You don't understand a word and you ask the speaker to repeat it. OK, so far so good. Nothing out of the ordinary. That happens to everyone. 
+
+But then... the speaker repeats it and you STILL don't have even the slightest clue what he or she is saying. Not even a clue of what they might mean! 
+
+You ask them to repeat it again. And AGAIN... you don't even have the slightest clue of what they might be saying! They seem to be speaking normally but you have absolutely no clue what word they are uttering!
+
+After asking the speaker to repeat the same word 3 or 4 times, I usually just give up. Because I can't bear the feeling of embarrassment. In my mind, I think that the speaker must think that I'm brain-dead retarded because I can't understand a simple word they are saying. 
+
+So, what I usually end up doing is: I pretend to have understood whereas in reality I haven't! I just give up because I'm feeling so embarrassed. Maybe this is because I have unusually high standards, who knows. 
+
+My point is: the level of embarrassment I experience in such moments is unfathomable. But this has only ever happened to me with British English. With native speakers who didn't appear to have any noticeable accent. 
+
+On the flip side though: This sort of thing has NEVER happened to me with American English. 
+
+The only issue with American English pronunciation is the occasional difficulty distinguishing between "can" and "can't". But this is something native speakers of American English struggle just as much with. I believe this is the only deficiency of American English pronunciation. When pronouncing "can't" quickly and when the context could mean both "can" and "can't" the "t" in "can't" can be difficult to hear. 
+
+Aside from that, the clarity of pronunciation in American English is so much greater than in British English, there's no contest. They aren't even on the same level when it comes to clarity in pronunciation. 
+
+British **news anchors** speak very clearly. But that's because they are **specifically trained** to do so. Try watching a "regular" British TV show where the speakers aren't news anchors and you'll quickly find that you need subtitles. This sort of thing is not there with American English. All Americans and Canadians can be easily understood without subtitles. 
+
+And as for that little problem with "can't" in American English, there is a simple fix for that:  
+In British English, there can never be a mix-up between "can" and "can't". So, we'll just borrow the British pronunciation of "can't" for our phonetic spelling in Starlan. Easy! In British "can't" the "a" is a long a sound like in "father". 
+
+
+
 ### Resources page
 
 On [this resources page here](./resources.md) I'll be adding potentially useful resources and links to potential allies. 
