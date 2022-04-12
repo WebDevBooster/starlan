@@ -167,6 +167,38 @@ And if we succeed with Star City, everyone is probably gonna say in hindsight: *
 
 Yeah. No shit, Sherlock!
 
+Even to someone with a **pea-sized brain** it should be immediately obvious that the horrendous spelling system in modern-day English results in a colossal waste of time and talent for the youngsters at school as well as for adults learning English as a second language. 
+
+It should also be obvious that this burden and wasted time put the entire society at a disadvantage. There's a price that you have to pay for that **long-term**.
+
+Why then does this atrocity in the English spelling continue to exist?
+
+It continues to exist for the same reason why the "QUERTY" keyboard layout continues to be the standard keyboard layout for computers today. Even though this legacy layout was originally designed for mechanical typewriters and was designed specifically to **SLOW TYPISTS DOWN!** 
+
+Stupidity and incompetence are wide-spread deceases. Also, reforms aren't free. There's always a **short-term** initial cost that comes with it. An initial investment is required to improve things. An initial investment that pays dividends. Roasted chickens don't just magically fly into your mouth. 
+
+Go ahead and free yourself from the slavery of the QUERTY layout by switching to my [Dvorak-Booster Keyboard Layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout) right now! 
+
+Will you do it? No, you probably won't. Because the shackles of the QUERTY layout have become so familiar to you that you find them comfy. So, rather than spending 3 hours on learning a better keyboard layout, you prefer to be shackled by the legacy chains of a keyboard layout that was designed to slow you down. 
+
+How does the above paragraph make you feel? There are only a few possible options... 
+
+### The bottom-line is: 
+
+People don't and won't just randomly switch their main language to a different one. Even if the only difference is spelling. 
+
+For people to change their main language to Starlan, something has to happen on such a LARGE scale... it would be akin to the movement of the tectonic plates on the planet. At least as far as the lives of the individuals in question are concerned. A MAJOR change in the lives of those people has to happen. 
+
+And that is exactly what WILL happen in the case of Starlan. 
+
+This will happen when we start building Star City (at the latest). And it will be initiated long before we physically start building this city. It will be initiated when we start building the community of people. People who want Star City to become reality. 
+
+The Star City project will change people's lives to such a magnitude that changing their main language to Starlan will actually be a minor issue.
+
+Not only will Starlan be the official language of Star City (and thus required for citizens to know), we will make double and triple sure that these people will WANT to switch to this new language. 
+
+We'll make sure that people will be **thrilled** to learn and adopt this new language LONG before the first stone of Star City's physical foundations is laid. 
+
 
 ### Eliminate embarrassment! 
 
