@@ -199,6 +199,8 @@ Not only will Starlan be the official language of Star City (and thus required f
 
 We'll make sure that people will be **thrilled** to learn and adopt this new language LONG before the first stone of Star City's physical foundations is laid. 
 
+[A radical calendar reform with a new calendar system](https://github.com/WebDevBooster/Starlendar) will be yet another thing that will be different in Star City. Nearly **everything** will be radically different in Star City. That's why switching to Starlan will feel like a "normal" thing to do.
+
 
 ### Eliminate embarrassment! 
 
