@@ -16,7 +16,7 @@ Starlan is a new human language based on and mutually intelligible with American
  A new learner of Starlan can learn the basic pronunciation rules in about 30 minutes and **IMMEDIATELY know the correct pronunciation of any word in any text!** 
  
  Even without knowing that word's meaning.  
- And without ever having to look it up pronunciation. 
+ And without ever having to look up pronunciation. 
  
  
  This means, people speaking Starlan will: 
@@ -270,9 +270,6 @@ On [this resources page here](./resources.md) I'll be adding potentially useful 
 ### References 
 
 <a name="manifesto"></a>  
-1. A link to Star City Manifesto will be added here when it becomes available. 
-
-TODO:  
-Add Star City Manifesto link.
+1. [Star City Manifesto](https://github.com/WebDevBooster/star-city-manifesto)
 
 
