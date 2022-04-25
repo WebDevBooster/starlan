@@ -39,7 +39,7 @@ And if, over time, Starlan starts deviating more and more from English, so be it
 
 We just want it to be very close (in terms of pronunciation) to Standard American English at the beginning. So that new learners (and their teachers) around the world quickly realize how vastly superior Starlan is compared to American English. 
 
-At a certain point, most educators and schools around the world will realize that teaching Starlan (instead of American or British English) is better because machines can convert any English text to Starlan in a heartbeat. And Starlan is mutually intelligeble with English but up to 10 times easier and faster for people to learn. 
+At a certain point, most educators and schools around the world will realize that teaching Starlan (instead of American or British English) is better because machines can convert any English text to Starlan in a heartbeat. And Starlan is mutually intelligible with English but up to 10 times easier and faster for people to learn. 
 
 ### Basic premise
 
