@@ -68,6 +68,9 @@ https://www.linkedin.com/in/lioryfern-pollak/
 appears to be Liory's Linkedin profile. 
 As of March 2022, she is listed there as Associate Professor at UCL Institute of Education. 
 
+Here's another page with her contact details:  
+https://iris.ucl.ac.uk/iris/browse/profile?upi=LFERN17
+
 Opening this UCL page:  
 https://www.linkedin.com/school/ucl-ioe/  
 I presently see the following words in the banner:  
