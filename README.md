@@ -4,7 +4,9 @@
 
 # Starlan: like English but 10 times faster to master!
 
-Starlan is a new human language based on and mutually intelligible with American English. Starlan makes it possible for non-native speakers (and for children) to **learn English up to 10 times faster** and to minimize accent from the start.
+Starlan is a new human language based on and mutually intelligible with American English. But unlike English, everyone who learns Starlan as a second language instantly knows the correct pronunciation of every word, from day 1. Just by reading. Because aside from a few rare and easy-to-learn exceptions, every word in Starlan is written exactly as it is pronounced.
+
+So, when compared to American English, Starlan makes it possible for non-native speakers (and for children) to **learn and master the language up to 10 times faster**. And to minimize accent and misunderstandings in communication right from the start.
  
  In short: 
  
